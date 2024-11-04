@@ -1,1 +1,2 @@
 # ADBMS
+This project is an eLibrary management system designed to help users organize and manage digital notes more efficiently. By allowing users to categorize and add notes with specific titles and descriptions, it simplifies the process of storing and retrieving information. Built using Django, HTML, CSS, JavaScript, and PostgreSQL as the database, the system leverages the capabilities of a robust web framework and reliable backend storage.
